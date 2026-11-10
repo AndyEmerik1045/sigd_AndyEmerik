@@ -1,0 +1,9 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type":"Feature","properties":{"nama":"Jl. Hadari Nawawi","kelas":"primary"},"geometry":{"type":"LineString","coordinates":[[109.3395,-0.0575],[109.3440,-0.0585],[109.3480,-0.0595],[109.3520,-0.0600]]}},
+    {"type":"Feature","properties":{"nama":"Jl. Ahmad Yani","kelas":"primary"},"geometry":{"type":"LineString","coordinates":[[109.3420,-0.0620],[109.3450,-0.0610],[109.3480,-0.0600]]}},
+    {"type":"Feature","properties":{"nama":"Jl. Reformasi","kelas":"secondary"},"geometry":{"type":"LineString","coordinates":[[109.3460,-0.0560],[109.3470,-0.0575],[109.3480,-0.0590]]}},
+    {"type":"Feature","properties":{"nama":"Jl. Sepakat II","kelas":"secondary"},"geometry":{"type":"LineString","coordinates":[[109.3410,-0.0530],[109.3430,-0.0545],[109.3450,-0.0560]]}}
+  ]
+}

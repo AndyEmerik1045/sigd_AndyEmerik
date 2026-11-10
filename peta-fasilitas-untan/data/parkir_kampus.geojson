@@ -1,0 +1,10 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type":"Feature","properties":{"nama":"Parkir FT","kapasitas":60,"jenis":"terbuka"},"geometry":{"type":"Polygon","coordinates":[[[109.3425,-0.0608],[109.3432,-0.0608],[109.3432,-0.0614],[109.3425,-0.0614],[109.3425,-0.0608]]]}},
+    {"type":"Feature","properties":{"nama":"Parkir Rektorat","kapasitas":120,"jenis":"terbuka"},"geometry":{"type":"Polygon","coordinates":[[[109.3440,-0.0605],[109.3448,-0.0605],[109.3448,-0.0612],[109.3440,-0.0612],[109.3440,-0.0605]]]}},
+    {"type":"Feature","properties":{"nama":"Parkir FE","kapasitas":40,"jenis":"terbuka"},"geometry":{"type":"Polygon","coordinates":[[[109.3455,-0.0618],[109.3462,-0.0618],[109.3462,-0.0624],[109.3455,-0.0624],[109.3455,-0.0618]]]}},
+    {"type":"Feature","properties":{"nama":"Parkir Perpustakaan","kapasitas":30,"jenis":"terbuka"},"geometry":{"type":"Polygon","coordinates":[[[109.3438,-0.0620],[109.3445,-0.0620],[109.3445,-0.0625],[109.3438,-0.0625],[109.3438,-0.0620]]]}},
+    {"type":"Feature","properties":{"nama":"Parkir FH","kapasitas":25,"jenis":"terbuka"},"geometry":{"type":"Polygon","coordinates":[[[109.3465,-0.0605],[109.3472,-0.0605],[109.3472,-0.0610],[109.3465,-0.0610],[109.3465,-0.0605]]]}}
+  ]
+}

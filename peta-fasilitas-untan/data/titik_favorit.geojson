@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type":"Feature","properties":{"nama":"Kopi Reformasi","kategori":"kafe","catatan":"Buka hingga larut"},"geometry":{"type":"Point","coordinates":[109.3482,-0.0568]}},
+    {"type":"Feature","properties":{"nama":"Serupa Coffee","kategori":"kafe","catatan":"Cocok diskusi"},"geometry":{"type":"Point","coordinates":[109.3479,-0.0571]}},
+    {"type":"Feature","properties":{"nama":"5cm Coffee","kategori":"kafe","catatan":"Harga terjangkau"},"geometry":{"type":"Point","coordinates":[109.3485,-0.0565]}},
+    {"type":"Feature","properties":{"nama":"1/2 Kopitiam","kategori":"kafe","catatan":"Kopi lokal"},"geometry":{"type":"Point","coordinates":[109.3480,-0.0573]}},
+    {"type":"Feature","properties":{"nama":"Weng Coffee","kategori":"kafe","catatan":"Area outdoor"},"geometry":{"type":"Point","coordinates":[109.3477,-0.0569]}},
+    {"type":"Feature","properties":{"nama":"Kafe Isoku","kategori":"kafe","catatan":"Dekat Sepakat 2"},"geometry":{"type":"Point","coordinates":[109.3421,-0.0532]}},
+    {"type":"Feature","properties":{"nama":"Kopi Tengah Kota","kategori":"kafe","catatan":"Banyak colokan"},"geometry":{"type":"Point","coordinates":[109.3415,-0.0512]}},
+    {"type":"Feature","properties":{"nama":"Ruai Coffee Space","kategori":"kafe","catatan":"Coworking"},"geometry":{"type":"Point","coordinates":[109.3452,-0.0598]}},
+    {"type":"Feature","properties":{"nama":"Teras Kopi 24 Jam","kategori":"kafe","catatan":"Buka 24 jam"},"geometry":{"type":"Point","coordinates":[109.3398,-0.0545]}},
+    {"type":"Feature","properties":{"nama":"Aming Coffee","kategori":"kafe","catatan":"Robusta Kalbar"},"geometry":{"type":"Point","coordinates":[109.3375,-0.0528]}},
+    {"type":"Feature","properties":{"nama":"Chatter Box (PGRI)","kategori":"belajar","catatan":"Learning cafe"},"geometry":{"type":"Point","coordinates":[109.3562,-0.0487]}},
+    {"type":"Feature","properties":{"nama":"Perpustakaan Kota","kategori":"belajar","catatan":"Ruang privasi"},"geometry":{"type":"Point","coordinates":[109.3438,-0.0503]}},
+    {"type":"Feature","properties":{"nama":"Perpustakaan Kurnia Kobar","kategori":"belajar","catatan":"Suasana tenang"},"geometry":{"type":"Point","coordinates":[109.3521,-0.0451]}},
+    {"type":"Feature","properties":{"nama":"Perpustakaan UNTAN","kategori":"belajar","catatan":"Referensi lengkap"},"geometry":{"type":"Point","coordinates":[109.3441,-0.0606]}},
+    {"type":"Feature","properties":{"nama":"Area Jajanan UNTAN","kategori":"kuliner","catatan":"Jajanan murah"},"geometry":{"type":"Point","coordinates":[109.3468,-0.0592]}},
+    {"type":"Feature","properties":{"nama":"Kuliner Malam UNTAN","kategori":"kuliner","catatan":"Tenda & warung"},"geometry":{"type":"Point","coordinates":[109.3475,-0.0585]}},
+    {"type":"Feature","properties":{"nama":"Warteg Kampus","kategori":"kuliner","catatan":"Makanan murah"},"geometry":{"type":"Point","coordinates":[109.3445,-0.0578]}},
+    {"type":"Feature","properties":{"nama":"Kantin FT","kategori":"kuliner","catatan":"Makan cepat"},"geometry":{"type":"Point","coordinates":[109.3430,-0.0610]}},
+    {"type":"Feature","properties":{"nama":"Taman Kuliner Sepakat","kategori":"kuliner","catatan":"Area terbuka"},"geometry":{"type":"Point","coordinates":[109.3455,-0.0540]}},
+    {"type":"Feature","properties":{"nama":"Kopi Sore","kategori":"kafe","catatan":"Interior industrial"},"geometry":{"type":"Point","coordinates":[109.3402,-0.0495]}}
+  ]
+}

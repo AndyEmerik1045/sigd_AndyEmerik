@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": {"nama": "Kampus Universitas Tanjungpura", "kode": "UNTAN"},
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [109.3400, -0.0580],
+        [109.3480, -0.0580],
+        [109.3480, -0.0630],
+        [109.3400, -0.0630],
+        [109.3400, -0.0580]
+      ]]
+    }
+  }]
+}

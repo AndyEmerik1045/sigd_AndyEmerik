@@ -3,7 +3,7 @@ const MAP_CENTER = [-0.0575, 109.3450];
 const MAP_ZOOM = 16;
 
 const WARNA_KATEGORI = {
-  'kafe': '#c62828',
+  'kafe': '#fbc02d',
   'belajar': '#1565c0',
   'kuliner': '#ef6c00',
   'lainnya': '#6a1b9a'
@@ -118,7 +118,7 @@ function buatLayerTitikFavorit(geojson) {
       return marker;
     },
     onEachFeature: (feature, layer) => {
-      if (feature.properties.kategori === 'kafe') {
+      if (feature.properties.kategori === 'kuliner') {
         bindLabel(layer, feature);
       }
     }
